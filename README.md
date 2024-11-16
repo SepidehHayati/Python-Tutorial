@@ -1,10 +1,11 @@
 # Python-Tutorial-for-Data-Analyst
+
 This repository is a personal collection of Python exercises and examples inspired by the Data Analysis series by Alex on YouTube. It’s designed to help me review and strengthen my Python skills while sharing useful resources with others.
 
 **Folder Structure:**
-  - **Intruduction**: This folder includes the basic Python concepts, organized into 9 lesson files.
-      - Variable in Python
-      - Data types in Python
+  - **Introduction**: This folder includes the basic Python concepts, organized into 8 lesson files.
+      - Variable
+      - Data types
       - Comparison, Logical, and Membership Operators
       - If Else Statements
       - For Loops
@@ -18,9 +19,7 @@ This repository is a personal collection of Python exercises and examples inspir
       - Find and Find_All
       - Scraping Data from a Real Website
 
-
-
-  - **Python Pandas**: This folder includes web scraping in Python, organized into 4 lesson files.
+  - **Python Pandas**: This folder includes web scraping in Python, organized into 8 lesson files.
       - Reading in Files
       - Filtering Columns and Rows
       - Indexes
