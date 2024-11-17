@@ -1,4 +1,4 @@
-# Python-Tutorial-for-Data-Analyst
+# Python HandsOn for Data Analytics
 
 This repository is a personal collection of Python exercises and examples inspired by the Data Analysis series by Alex on YouTube. It’s designed to help me review and strengthen my Python skills while sharing useful resources with others.
 
