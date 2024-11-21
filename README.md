@@ -13,8 +13,7 @@ This repository is a personal collection of Python exercises and examples inspir
       - Functions
       - Converting Data Types
 
-  - **Web Scraping in Python**: This folder includes web scraping in Python, organized into 4 lesson files.
-      - Inspecting Web Pages with HTML
+  - **Web Scraping in Python**: This folder includes web scraping in Python, organized into 3 lesson files.
       - BeautifulSoup + Requests
       - Find and Find_All
       - Scraping Data from a Real Website
