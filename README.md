@@ -18,7 +18,7 @@ This repository is a personal collection of Python exercises and examples inspir
       - Find and Find_All
       - Scraping Data from a Real Website
 
-  - **Python Pandas**: This folder includes web scraping in Python, organized into 8 lesson files.
+  - **Python Pandas**: This folder includes Pandas in Python and is organized into 8 lesson files.
       - Reading in Files
       - Filtering Columns and Rows
       - Indexes
